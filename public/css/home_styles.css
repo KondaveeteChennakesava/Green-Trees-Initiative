@@ -1070,6 +1070,9 @@ footer {
     margin-right: 2rem;
   }
 
+  .stat-quote {
+    font-size: 5rem;
+  }
   .upper {
     align-items: flex-end;
     justify-content: space-evenly;

@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Flood Std";
-  src: url("../../assets/fonts/FloodStd.otf");
+  src: url("../assets/fonts/FloodStd.otf");
 }
 
 * {
@@ -21,7 +21,7 @@
 }
 .donate-container {
   width: 100%;
-  background-image: url("../../assets/donation/annie-spratt-427340-unsplash.png");
+  background-image: url("../assets/donation/annie-spratt-427340-unsplash.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

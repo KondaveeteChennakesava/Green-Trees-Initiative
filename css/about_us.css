@@ -134,7 +134,7 @@
 .pic {
   height: 80vh;
   width: 100%;
-  background-image: url("../../assets/about-us/annie-spratt-427339-unsplash.png");
+  background-image: url("../assets/about-us/annie-spratt-427339-unsplash.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -148,7 +148,7 @@
   transform: translateX(-5%);
   height: 9rem;
   width: 50%;
-  background-image: url("../../assets/home/stopclimatechange.png");
+  background-image: url("../assets/home/stopclimatechange.png");
   background-size: contain;
   object-fit: contain;
   background-repeat: no-repeat;
